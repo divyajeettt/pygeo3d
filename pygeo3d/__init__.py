@@ -6,7 +6,6 @@ Points, Lines and Planes"""
 
 from pyvectors import Vector
 from types import GeneratorType
-from typing import Union
 import linear_equations as eqns
 import matplotlib.pyplot as plt
 import matplotlib.patches as mp
@@ -1495,7 +1494,7 @@ def projection(obj1: Point|Line, obj2: Line|Plane, /) -> Point|Line:
 
     raise TypeError(" ".join((
         "invalid argument type(s) for 'projection':",
-        "must be 'Point', 'Line' and / or 'Plane'.",
+        "must be 'Point' and / or 'Line'.",
         "see help(projection) for help on valid arguments."
     )))
 
