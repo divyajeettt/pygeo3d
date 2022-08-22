@@ -72,8 +72,8 @@ Minor bug fixes
 ## Footnotes
 
 This project is dependent upon the following of my own modules, available through *PyPI*:
-- `pyvectors`
-- `linear_equations`
+- [`pyvectors`](https://github.com/divyajeettt/pyvectors)
+- [`linear_equations`](https://github.com/divyajeettt/linear-equations)
 
 ## Run
 
