@@ -2,10 +2,10 @@
 
 ## About pygeo3d
 
-pygeo3d is a vasrt mathematical module providing (real) 3-dimensional objects, i.e. Points, Lines and Planes as Python objects through classes.
+pygeo3d (py-geometry-3d) is a vast mathematical module providing (real) 3-dimensional objects, i.e. Points, Lines and Planes as Python objects through classes.
 
 *Date of creation:* `April 22, 2021` \
-*Date of first release on [PyPI](https://pypi.org/):* `May 06, 2021`
+*Date of first release on [PyPI](https://pypi.org/project/pygeo3d/):* `May 06, 2021`
 
 Using this module, 3-dimensional geometry can be easily executed in Python. Along with providing calulative tools, it also allows a user to visualize Points, Lines and Planes on a 3D plot, and can be used as a learning tool to enhance a student's 3D visualization capabilities. The module is enriched with help-text and examples.
 
