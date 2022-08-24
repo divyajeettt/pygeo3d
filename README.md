@@ -80,7 +80,7 @@ This project is dependent upon the following of my own modules, available throug
 To use, execute:
 
 ```
-pip install pygeo3d
+pip3 install pygeo3d
 ```
 
 Import this file in your project, whenever needed, using:
